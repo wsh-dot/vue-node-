@@ -1,4 +1,4 @@
-# vue-node-
+# Epidemic prevention and control system
 该项目名为校园疫情防控系统，所用技术主要涉及vue2+node.js+mysql+axios+express</br>
 功能点包括:</br>
 1.登录模块</br>
